@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafix140
-- 👀 I’m interested in programming. It's my passion.
-- 🌱 I’m currently learning c++, java, php, html, css, python, c#, javascrript.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning node.js, express.js, nodes.js, react, java, python, c++.
 - 📫 How to reach me: janiakrafal2004@gmail.com
 
 <!---
